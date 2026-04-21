@@ -101,18 +101,3 @@ int main() {
 
     return 0;
 }
-Execution (GitHub)
-Create a repository on GitHub
-Upload the C file
-Copy the repository link
-Paste it into your Google Sheet
-
-Example format:
-
-https://github.com/your-username/bst-application
-Hackerrank Execution
-Go to HackerRank
-Solve:
-Tree: Inorder Traversal
-Tree: Height of a Binary Tree
-Submit and take screenshots or links
